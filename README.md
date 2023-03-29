@@ -3,7 +3,7 @@ A project for a home lighting system inspired by an artificial life algorithm.
 
 The code was written on Arduino IDE 2.0.4.
 
-Hardware:
+## Hardware:
 1) Arduino Uno R3
 2) 8x32 LED dot matrix, created by four 1088AS chips on a breakout board.
 3) Grove temperature sensor board(DHT11).
