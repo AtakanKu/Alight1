@@ -23,5 +23,5 @@ Connections(See list above for hardware numbers):
 
 All connections by jumper wires.
 
-##Demo
+## Demo
 See it in action: https://www.youtube.com/watch?v=k92IipHYB4E
