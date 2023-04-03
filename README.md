@@ -22,3 +22,6 @@ Connections(See list above for hardware numbers):
 |(2)Clock      |(1)(pin 13)(Digital)|  
 
 All connections by jumper wires.
+
+##Demo
+See it in action: https://www.youtube.com/watch?v=k92IipHYB4E
